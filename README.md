@@ -1,89 +1,70 @@
-# React JS Hello World Project
+# Getting Started with Create React App
 
-This is a starter project. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Shows the following.
+## Available Scripts
 
-1. How to create a brand new react js project.
-1. created new components
-1. showing an image
-1. created new components in folders. 
-1. take input
-1. console logging
-1. using buttons
+In the project directory, you can run:
 
-Note : After looking at this, I would strongly recommend, you look at this. [React JS Starter — Consumes NASA APOD API with Redux and Thunks](https://medium.com/p/e21e138a8b49). This will show you how to use additional libraries, responsive web design, routing, redux and consuming web apis.
+### `npm start`
 
-# Local host running 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-1. Local:            http://localhost:3000
-1. On Your Network:  http://192.168.29.208:3000
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Note : When doing react JS, I would strongly recommending using two computers. One computer for coding. One computer for debugging over a network. Or, you can have two monitors.
+### `npm test`
 
-# Setting Up Project and Running
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```
-    npx create-react-app my-app
-    cd my-app
-    npm start
+### `npm run build`
 
-```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. npm install. Installs all neccessary node modules. 
-1. npm start
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# Notes - General
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-1. I have put comments and console logs (caveman debugging) all over the place. ensure you have console open when you are running the app. 
-1. This is basic react js without any extra libraries installed.
-1. So, there is no routing or anything. just a standard and true, 'single page application'. There is only one page and nothing else.
-1. Note how, some components look like this. (starting with curly braces)
-    ```
-        const ShowSomeStuff = ({someObject1,someObject2}) => {
-    ```
-1. and other components look like this. (starting with small brackets)
-    ```
-        const ShowImageAgain = () => (
-    ```
-1. Aim to have something like this, without too many warnings in the terminal console.
-    ```
-    Compiled successfully!
+### `npm run eject`
 
-    You can now view helloworld in the browser.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-    Local:            http://localhost:3000
-    On Your Network:  http://192.168.29.208:3000
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-    Note that the development build is not optimized.
-    To create a production build, use npm run build.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-    webpack compiled successfully    
-    ```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-# References
+## Learn More
 
-1. https://reactjs.org/docs/hello-world.html
-1. https://reactjs.org/docs/create-a-new-react-app.html
-1. https://www.bootstrapcdn.com/
-1. https://unsplash.com/@jay_neeruhaaku
-1. https://medium.com/p/e21e138a8b49
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# Hire Me
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-I work as a full time freelance coding tutor. Hire me at [UpWork](https://www.upwork.com/fl/vijayasimhabr) or [Fiverr](https://www.fiverr.com/jay_codeguy). 
+### Code Splitting
 
-# Hobbies
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-I try to maintain a few hobbies.
+### Analyzing the Bundle Size
 
-1. Podcasting. You can listen to my [podcast here](https://stories.thechalakas.com/listen-to-podcast/).
-1. Photography. You can see my photography on [Unsplash here](https://unsplash.com/@jay_neeruhaaku).
-1. Digital Photorealism 3D Art and Arch Viz. You can see my work on this on [Adobe Behance](https://www.behance.net/vijayasimhabr).
-1. Writing and Blogging. You can read my blogs. I have many medium Publications. [Read them here](https://medium.com/@vijayasimhabr).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-# important note 
+### Making a Progressive Web App
 
-This code is provided as is without any warranties. It's primarily meant for my own personal use, and to make it easy for me share code with my students. Feel free to use this code as it pleases you.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-I can be reached through my website - [Jay's Developer Profile](https://jay-study-nildana.github.io/developerprofile)
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

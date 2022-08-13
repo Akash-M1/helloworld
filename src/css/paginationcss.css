@@ -1,0 +1,51 @@
+.rectangle{
+    width: 36px;
+    height: 36px;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #8C96AB;
+    opacity: 1;
+}
+#rectangle1{
+    position: absolute;
+    top: 849px;
+    left: 650px;  
+}
+#rectangle2{
+    position: absolute;
+    top: 849px;
+    left: 699px;
+    border: 1px solid #8C96AB;
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    color: white;
+}
+#rectangle3{
+    position: absolute;
+    top: 849px;
+    left: 747px;
+}
+#rectangle4{
+    position: absolute;
+    top: 849px;
+    left: 795px;
+}
+#rectangle5{
+    position: absolute;
+    top: 849px;
+    left: 841px;
+}
+#rectangle6{
+    position: absolute;
+    top: 849px;
+    left: 892px;
+}
+#rectangle7{
+    position: absolute;
+    top: 849px;
+    left: 944px;
+}

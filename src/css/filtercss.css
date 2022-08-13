@@ -1,0 +1,128 @@
+.filterbox{
+    position: absolute;
+    top: 195px;
+    left: 113px;
+    width: 260px;
+    height: 682px;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.filtertxt{
+    position: absolute;
+    top: 17px;
+    left: 26px;
+    width: 55px;
+    height: 25px;
+    text-align: left;
+    color:#192F60;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0px;
+    opacity: 1;
+    font-size: 18px;
+}
+#filter{
+    background: #FFFFFF;
+    position: absolute;
+    top: 83px;
+    left: 27px;
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+#filterdroptxt{
+    position: absolute;
+    top: 52px;
+    left: 27px;
+    width: 106px;
+    height: 20px;
+    color: #192F60; 
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 1;
+}
+#cusine{
+    position: absolute;
+    top: 140px;
+    left: 27px;
+    width: 52px;
+    height: 20px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.checkbox{
+    width: 18px;
+    height: 18px;
+    background-color: #eee;
+    border: 2px solid #3A5075;
+    border-radius: 2px;
+    opacity: 1;
+}
+.radio{
+    width: 18px;
+    height: 18px;
+    background-color: #eee;
+    border: 2px solid #3A5075;
+    border-radius: 9px;
+    opacity: 1;
+}
+.filterWords{
+    color: #8C96AB;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0px;
+    width: 110px;
+    height: 20px;
+    position: relative;
+}
+#filters{
+    position: absolute;
+    left: 27px;
+    top: 175px;
+}
+#cost2{
+    position: absolute;
+    left: 27px;
+    top: 330px;
+    width: 89px;
+    height: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #192F60; 
+    opacity: 1;
+    text-align: left;
+}
+#cost{
+    position: absolute;
+    left: 27px;
+    top: 370px;
+}
+
+#sort2{
+    position: absolute;
+    left: 27px;
+    top: 525px;
+    width: 37px;
+    height: 25px;
+    font-family: 'Poppins', sans-serif;
+    color: #192F60;
+    font-size: 18px;
+    font-weight: 600;
+}
+#sort{
+    position:absolute;
+    left: 27px;
+    top: 565px;
+}

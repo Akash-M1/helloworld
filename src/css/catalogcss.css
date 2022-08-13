@@ -1,0 +1,105 @@
+.catalogs{
+    width: 794px;
+    height: 291px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+#catalog1{
+    position: absolute;
+    top: 195px;
+    left: 418px;
+}
+#catalog2{
+    position: absolute;
+    top: 520px;
+    left: 418px;
+}
+.images{
+    width: 120px;
+    height: 120px;
+    opacity: 1;
+    border-radius: 25%;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+}
+.catalogtit{
+    position: absolute;
+    top: 39px;
+    left: 170px;
+    width: 340px;
+    height: 43px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-weight: 600;
+}
+#catalogtit1{
+    position: absolute;
+    top: 39px;
+    left: 134px;
+}
+.catalogtxt{
+    position: absolute;
+    top: 87px;
+    left: 201px;
+    width: 40px;
+    height: 23px;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+.catalogsubtxt{
+    position:absolute;
+    top: 115px;
+    left: 201px;
+    width: 370px;
+    height: 23px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+.hrbar{
+    position: absolute;
+    top: 176px;
+    left: 35px;
+    border: 1px solid #DEDFE5;
+    opacity: 1;
+    width: 726px;
+    height: 0px;
+}
+.prices{
+    position:absolute;
+    top: 202px;
+    left: 40px;
+    width: 140px;
+    height: 118px;
+    color: #636F88;
+    opacity: 1;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    letter-spacing: 0px;
+    font-size: 16px;
+}
+.pricelist{
+    position:absolute;
+    top: 202px;
+    left: 216px;
+    width: 251px;
+    height: 69px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-size: 16px;
+}
